@@ -1,6 +1,5 @@
 # linear_regression_project
 ### 한국 개봉영화 관람객 예측 프로젝트
-#
 <br/>
 
 ### 팀구성
