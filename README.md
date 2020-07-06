@@ -22,7 +22,12 @@ python, scikit-learn, statsmodels, matplotlib, pandas
 4. 최종 모델을 통한 에측
 <br/>
 
+### `Project Details`
+
+<br/>
 
 
+#### `presentation ppt`
+https://bit.ly/3dYX7cV
 
 
