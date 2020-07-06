@@ -12,7 +12,7 @@
 <br/>
 
 ### `Technical Skills`
-python, scikit-learn, statsmodels, matplotlib 
+python, scikit-learn, statsmodels, matplotlib, pandas
 <br/>
 
 ### `Procedure`
