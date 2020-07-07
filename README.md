@@ -42,9 +42,13 @@ python, scikit-learn, statsmodels, matplotlib, pandas
   - 범주형 변수의 경우, 특징(컬럼)의 갯수를 줄여서 과접합을 막고 모델이 복잡해지는 것을 방지한다.
   - 도메인에 대한 서칭을 통해 이 과정이 적합한지, 해서는 안될 특별한 이유가 없는지 확인함
   - 또한 실제로 모델간 비교를 통해 이러한 범주형 변수의 범위 축소과정이 더 나은 선택이라는 것을 확인하였음.
-  <img width="850" alt="스크린샷 2020-07-07 오후 3 26 27" src="https://user-images.githubusercontent.com/46306443/86727278-4086e180-c066-11ea-8462-c4fd6c55c2ae.png">
+  <img width="853" alt="스크린샷 2020-07-07 오후 3 29 24" src="https://user-images.githubusercontent.com/46306443/86727743-a96e5980-c066-11ea-9227-6caddb0fe129.png">
+  <img width="748" alt="스크린샷 2020-07-07 오후 3 31 22" src="https://user-images.githubusercontent.com/46306443/86727989-ee928b80-c066-11ea-9a9b-812eeb8046fb.png">
   <br/>
   <br/>
+
+#### 4. try&error 과정을 통해 모델링 진행
+- statsmodels의 r-squared, kfold 교차검증 r-squared, test r-squared를 향상시키는 방향으로 모델을 발전시켜나간다
 
 
 
