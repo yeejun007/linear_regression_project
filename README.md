@@ -49,7 +49,7 @@ python, scikit-learn, statsmodels, matplotlib, pandas
 
 
 
-### `presentation ppt`
+### `Presentation ppt`
 https://bit.ly/3dYX7cV
 
 
