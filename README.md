@@ -51,7 +51,6 @@ python, scikit-learn, statsmodels, matplotlib, pandas
 - statsmodels의 r-squared, kfold 교차검증 r-squared, test r-squared를 향상시키는 방향으로 모델을 발전시켜나간다
 <img width="726" alt="스크린샷 2020-07-07 오후 3 37 29" src="https://user-images.githubusercontent.com/46306443/86728865-ceaf9780-c067-11ea-9376-90c90355c726.png">
 <br/>
-<br/>
 
 #### 5. 완전히 새로운 데이터로 영화 관객수 예측해보기(최종 모델 사용)
   - 생각보다 굉장히 잘나와서 놀람...
